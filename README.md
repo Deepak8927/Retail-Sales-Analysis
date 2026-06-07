@@ -50,6 +50,16 @@ This project analyzes retail sales data to identify key revenue drivers, custome
 
 ---
 
+## 📊 Key Insights from Power BI dashboard
+
+* Furniture generated the highest revenue among all categories.
+* Canada contributed the highest sales volume among all countries.
+* Sales peaked around June before gradually declining later in the year.
+* Dining Tables and Chairs were among the highest revenue-generating products.
+* The business served approximately 1.8K unique customers across 2K orders.
+
+---
+
 ## 💡 Business Recommendations
 
 * Focus marketing and inventory on high-performing categories
